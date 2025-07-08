@@ -1,1 +1,1 @@
-# vscode
+Hoje no dia 08/07/2025 na aula de Pensamento Computacional com a professora Georgia  aprendemos a mexer e fizemos um projeto no vscode. Meu projeto tem 3 linhas.Na primeira é meu nome completo e nas outras 2 são frases pra levar para a vida... são elas:"Viva o hoje sem pensar no amanhã" e "Não desista, supere."
